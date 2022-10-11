@@ -12,3 +12,6 @@ I have to say This project had nothing new for me as I have been through it befo
 -added hover and color changing of user's backgrounds
 -the next and previous buttons appears as iconic buttons and also added some color styling among with hover on them.
 -a search tab where you can search users by the letter in their first names or last names or both.
+
+Name: Khashayar - Mirbabaie 
+Unit5 - Public API Request.
