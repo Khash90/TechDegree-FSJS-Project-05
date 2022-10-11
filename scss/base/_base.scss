@@ -1,0 +1,23 @@
+* {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    
+    font-size: $base__font-size;
+    font-family: $font-family--primary;
+    position: relative;
+}
+header{
+    // border: 1px solid yellow;
+    width: 95%;
+    margin-top: 57px;
+    margin-left: 30px;
+}
+h1{
+    // margin-top: 61px;
+    // margin-left: 50px;
+    width: 100%;
+    // border: 1px solid red;
+}

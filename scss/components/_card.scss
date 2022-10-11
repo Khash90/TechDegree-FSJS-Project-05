@@ -1,0 +1,36 @@
+
+
+.card{
+    border: 1px solid rgb(193, 193, 214);
+    border-radius: 7px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    flex-basis: 32%;
+    margin: 0 auto;
+    width: 30%;
+    .name{
+        margin-top: 37px;
+        margin-left: 10px;
+        margin-bottom: -9px;
+    }
+}
+
+.text-container p{
+    margin-left: 10px;
+  
+}
+.address{
+    margin-top: -8px;
+}
+.avatar{
+    
+    border-radius: 50%;
+    width: 25%;
+    height: 60%;
+    margin: 26px 4px;
+}
+
+#profilePic{
+    width: 130px;
+}
