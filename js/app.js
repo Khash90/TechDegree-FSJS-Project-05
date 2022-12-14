@@ -39,6 +39,7 @@ function displayEmployees(employeeData) {
     `
     });
     gridContainer.innerHTML = employeeHTML;
+
 }
 
 
@@ -90,6 +91,8 @@ function displayModal(index) {
           displayModal((employeesIndex -= 1));
         }
       }
+
+      
     
  }
  
@@ -108,6 +111,7 @@ function displayModal(index) {
 
         displayModal(index);
     }
+    
  });
 
  //filter search
@@ -131,3 +135,7 @@ modalClose.addEventListener('click', () => {
     overlay.classList.add("hidden");
     document.body.style.overflow = "auto";
 });
+
+
+
+
